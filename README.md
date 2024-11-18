@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Svetlana</h1>
-<h3 align="center">I am junior frontend developer from Russia</h3>
+<h3 align="center">I am frontend developer from Russia</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grandmozer" alt="grandmozer" /></a> </p>
 
